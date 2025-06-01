@@ -17,7 +17,7 @@ app = FastAPI()
 # Configure CORS to allow communication from your React frontend
 # IMPORTANT: In production, change `allow_origins` to your frontend's specific URL!
 origins = [
-    "http://localhost:5173",  # Your React dev server
+    "http://localhost:5174",  # Your React dev server
     # Add your production frontend URL here when you deploy!
     # "https://your-frontend-app.vercel.app"
 ]
