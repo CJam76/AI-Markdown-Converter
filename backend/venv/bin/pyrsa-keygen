@@ -1,4 +1,4 @@
-#!/home/christian/ai-markdown-converter/backend/venv/bin/python3
+#!/home/christian/projects/AI-Markdown-Converter/backend/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
